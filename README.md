@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blue-Engineer | Ojolowo Boluwatife 
-- 👀 This is new repository
+- 👀 This is a new repository
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects
