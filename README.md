@@ -6,4 +6,3 @@
 - 📫 How to reach me? LinkedIn
   ```sh
   https://www.linkedin.com/in/ojolowo-boluwatife/
-  ```
