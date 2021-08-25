@@ -6,6 +6,6 @@
 - 📫 How to reach me? LinkedIn
   ```sh
   https://www.linkedin.com/in/ojolowo-boluwatife/
-  - 📫 Request for my projects? mail me!
+- 📫 Request for my projects? mail me!
   ```sh
   ojolowoboluwatife1@gmail.com 
